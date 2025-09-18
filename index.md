@@ -76,3 +76,10 @@ layout: default
 *   **现金为王：** 买卡、充值，**只收现金（美元、欧元、加元）**！信用卡？别指望。在机场或市区换好足够现金。
 *   **“蜗牛”网速管理：** 把手机自动更新、云备份关掉！它们会在后台默默吃掉你昂贵的流量和电量。地图提前下载离线包（如Google Maps Offline, Maps.me）。
 *   **寻找Wi-Fi热点：** 虽然不如以前多，但公园、酒店大堂还是有公共Wi-Fi区（需买Nauta Wi-Fi
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Cuba SIM 卡购买与激活指南](https://faciylike.github.io/cuba-sim-guides)
